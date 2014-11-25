@@ -1,0 +1,6 @@
+c:\users\kim\documents\visual studio 2013\Projects\RaknaSiffror\RaknaSiffror\bin\Debug\RaknaSiffror.exe.config
+c:\users\kim\documents\visual studio 2013\Projects\RaknaSiffror\RaknaSiffror\bin\Debug\RaknaSiffror.exe
+c:\users\kim\documents\visual studio 2013\Projects\RaknaSiffror\RaknaSiffror\bin\Debug\RaknaSiffror.pdb
+c:\users\kim\documents\visual studio 2013\Projects\RaknaSiffror\RaknaSiffror\obj\Debug\RaknaSiffror.csprojResolveAssemblyReference.cache
+c:\users\kim\documents\visual studio 2013\Projects\RaknaSiffror\RaknaSiffror\obj\Debug\RaknaSiffror.exe
+c:\users\kim\documents\visual studio 2013\Projects\RaknaSiffror\RaknaSiffror\obj\Debug\RaknaSiffror.pdb

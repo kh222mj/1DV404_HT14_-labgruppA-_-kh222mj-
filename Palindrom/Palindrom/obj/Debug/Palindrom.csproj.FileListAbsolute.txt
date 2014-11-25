@@ -1,0 +1,6 @@
+c:\users\kim\documents\visual studio 2013\Projects\Palindrom\Palindrom\bin\Debug\Palindrom.exe.config
+c:\users\kim\documents\visual studio 2013\Projects\Palindrom\Palindrom\bin\Debug\Palindrom.exe
+c:\users\kim\documents\visual studio 2013\Projects\Palindrom\Palindrom\bin\Debug\Palindrom.pdb
+c:\users\kim\documents\visual studio 2013\Projects\Palindrom\Palindrom\obj\Debug\Palindrom.csprojResolveAssemblyReference.cache
+c:\users\kim\documents\visual studio 2013\Projects\Palindrom\Palindrom\obj\Debug\Palindrom.exe
+c:\users\kim\documents\visual studio 2013\Projects\Palindrom\Palindrom\obj\Debug\Palindrom.pdb

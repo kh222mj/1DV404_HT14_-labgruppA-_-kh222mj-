@@ -1,0 +1,6 @@
+c:\users\kim\documents\visual studio 2013\Projects\RaknaA\RaknaA\bin\Debug\RaknaA.exe.config
+c:\users\kim\documents\visual studio 2013\Projects\RaknaA\RaknaA\bin\Debug\RaknaA.exe
+c:\users\kim\documents\visual studio 2013\Projects\RaknaA\RaknaA\bin\Debug\RaknaA.pdb
+c:\users\kim\documents\visual studio 2013\Projects\RaknaA\RaknaA\obj\Debug\RaknaA.csprojResolveAssemblyReference.cache
+c:\users\kim\documents\visual studio 2013\Projects\RaknaA\RaknaA\obj\Debug\RaknaA.exe
+c:\users\kim\documents\visual studio 2013\Projects\RaknaA\RaknaA\obj\Debug\RaknaA.pdb
